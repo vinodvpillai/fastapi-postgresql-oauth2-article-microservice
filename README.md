@@ -1,4 +1,4 @@
-# FastAPI REST Web Application
+# Article Microservice (OAuth2)
 
 This is a FastAPI-based Article Microservice that allows users to create, read, update, and delete articles. The service is secured with JWT authentication, where tokens are issued by a separate Authentication Microservice.
 
